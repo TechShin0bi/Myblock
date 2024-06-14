@@ -1,0 +1,19 @@
+{
+    "home":"Home",
+    "activity":"Activities",
+    "scan":"ScanQR",
+    "setting":"Settings",
+    "profile":"Profile",
+    "bank":"Bank",
+    "topup":"TopUp",
+    "qrcode":"QRCode",
+    "nearby":"NearBy",
+    "resent transactions":"Resent Transactions",
+    "last transaction":"Last Transaction",
+    "transfer":"Transfer",
+    "invite friends":"Invite Friends",
+    "contact list":"Contact List",
+    "my wallet":"My Wallet",
+    "change password":"Change Password",
+    "about":"About"
+}
